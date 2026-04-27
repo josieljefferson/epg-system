@@ -1,1 +1,33 @@
+name: 🚀 IPTV ULTRA SYSTEM
 
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install -r requirements.txt
+
+      - name: 📡 Gerar EPG
+        run: python script/epg_generator.py
+
+      - name: 📺 Gerar M3U
+        run: python script/m3u_builder.py
+
+      - name: 💾 Commit automático
+        run: |
+          git config user.name "iptv-bot"
+          git config user.email "bot@iptv.com"
+          git add .
+          git commit -m "🔄 Update automático IPTV" || echo "No changes"
+          git push
