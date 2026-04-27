@@ -2,7 +2,7 @@
   "channels": [
     {
       "id": "tv.assembleia.pi",
-      "name": "TV Assembleia PI",
+      "name": "TV ASSEMBLEIA PI",
       "source": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao",
       "stream": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_TV_Assembleia_PI.png/320px-Logo_TV_Assembleia_PI.png"
