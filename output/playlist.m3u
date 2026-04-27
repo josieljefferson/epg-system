@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="tv.assembleia.pi" tvg-name="TV Assembleia PI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_TV_Assembleia_PI.png/320px-Logo_TV_Assembleia_PI.png" group-title="Brasil",TV Assembleia PI
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
