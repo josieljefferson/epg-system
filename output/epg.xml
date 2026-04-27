@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-<channel id="tv.assembleia.pi"><display-name>TV ASSEMBLEIA PI</display-name></channel>
+<channel id="tv.assembleia.pi"><display-name>TV Assembleia PI</display-name></channel>
 
 <programme start="20260427120000 -0300" stop="20260427130000 -0300" channel="tv.assembleia.pi">
 <title>JORNAL ALEPI 1ª EDIÇÃO –</title>
@@ -3361,4 +3361,5 @@
 <title>CINE ALEPI</title>
 </programme>
 
+<channel id="tv.cancaonova.com"><display-name>TV CANÇÃO NOVA</display-name></channel>
 </tv>
