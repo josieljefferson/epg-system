@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/josieljefferson/epg-system/refs/heads/main/output/epg.xml"
-#EXTINF:-1 tvg-id="tv.assembleia.pi" tvg-name="TV Assembleia PI" tvg-logo="https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/tv-assembleia-amplia-presenca-no-interior-do-piaui-e-chega-cada-vez-mais-perto-da-populacao/@@images/410cfea5-1d43-4468-beb4-77e0099502da.jpeg" group-title="Brasil",TV Assembleia PI
+#EXTINF:-1 tvg-id="tv.assembleia.pi" tvg-name="TV ASSEMBLEIA PI" tvg-logo="https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/tv-assembleia-amplia-presenca-no-interior-do-piaui-e-chega-cada-vez-mais-perto-da-populacao/@@images/410cfea5-1d43-4468-beb4-77e0099502da.jpeg" group-title="Brasil",TV ASSEMBLEIA PI
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.cancaonova.com" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Brasil",TV CANÇÃO NOVA
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1352164720.m3u8
