@@ -2,1446 +2,6 @@
 <tv>
 <channel id="tv.assembleia.pi"><display-name>TV ASSEMBLEIA PI</display-name></channel>
 
-<programme start="20260627120000 -0300" stop="20260627130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260627130000 -0300" stop="20260627143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260627143000 -0300" stop="20260627150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA –</title>
-</programme>
-
-
-<programme start="20260627150000 -0300" stop="20260627171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260627171000 -0300" stop="20260627172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260627172000 -0300" stop="20260627173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260627173000 -0300" stop="20260627173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260627173100 -0300" stop="20260627175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260627175000 -0300" stop="20260627180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260627180000 -0300" stop="20260627183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627183000 -0300" stop="20260627190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260627190000 -0300" stop="20260627193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO-</title>
-</programme>
-
-
-<programme start="20260627193000 -0300" stop="20260627210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260627210000 -0300" stop="20260627213000 -0300" channel="tv.assembleia.pi">
-<title>MATUTANDO</title>
-</programme>
-
-
-<programme start="20260627213000 -0300" stop="20260627220000 -0300" channel="tv.assembleia.pi">
-<title>PIAUÍ QUE PRODUZ -</title>
-</programme>
-
-
-<programme start="20260627220000 -0300" stop="20260627120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260627120000 -0300" stop="20260627130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260627130000 -0300" stop="20260627143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627143000 -0300" stop="20260627150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA / AJUSPI –</title>
-</programme>
-
-
-<programme start="20260627150000 -0300" stop="20260627171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260627171000 -0300" stop="20260627172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260627172000 -0300" stop="20260627173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260627173000 -0300" stop="20260627173000 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260627173000 -0300" stop="20260627174000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260627174000 -0300" stop="20260627175000 -0300" channel="tv.assembleia.pi">
-<title>MPTV</title>
-</programme>
-
-
-<programme start="20260627175000 -0300" stop="20260627180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260627180000 -0300" stop="20260627183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627183000 -0300" stop="20260627190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260627190000 -0300" stop="20260627193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627193000 -0300" stop="20260627210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260627210000 -0300" stop="20260627220000 -0300" channel="tv.assembleia.pi">
-<title>SARAU 17.1</title>
-</programme>
-
-
-<programme start="20260627220000 -0300" stop="20260627120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA –</title>
-</programme>
-
-
-<programme start="20260627120000 -0300" stop="20260627130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260627130000 -0300" stop="20260627143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627143000 -0300" stop="20260627150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA -</title>
-</programme>
-
-
-<programme start="20260627150000 -0300" stop="20260627171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260627171000 -0300" stop="20260627172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260627172000 -0300" stop="20260627173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260627173000 -0300" stop="20260627173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260627173100 -0300" stop="20260627175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260627175000 -0300" stop="20260627180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260627180000 -0300" stop="20260627183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627183000 -0300" stop="20260627190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260627190000 -0300" stop="20260627193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627193000 -0300" stop="20260627213000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI - FAROESTE</title>
-</programme>
-
-
-<programme start="20260627213000 -0300" stop="20260627220000 -0300" channel="tv.assembleia.pi">
-<title>SOB OUTRO OLHAR</title>
-</programme>
-
-
-<programme start="20260627220000 -0300" stop="20260627120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260627120000 -0300" stop="20260627130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260627130000 -0300" stop="20260627143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627143000 -0300" stop="20260627153000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA -</title>
-</programme>
-
-
-<programme start="20260627153000 -0300" stop="20260627171000 -0300" channel="tv.assembleia.pi">
-<title>ESTÚDIO INTERATIVO –</title>
-</programme>
-
-
-<programme start="20260627171000 -0300" stop="20260627172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260627172000 -0300" stop="20260627173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260627173000 -0300" stop="20260627173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260627173100 -0300" stop="20260627174000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260627174000 -0300" stop="20260627175000 -0300" channel="tv.assembleia.pi">
-<title>MPTV</title>
-</programme>
-
-
-<programme start="20260627175000 -0300" stop="20260627180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260627180000 -0300" stop="20260627183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627183000 -0300" stop="20260627190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260627190000 -0300" stop="20260627193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627193000 -0300" stop="20260627210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260627210000 -0300" stop="20260627213000 -0300" channel="tv.assembleia.pi">
-<title>APAE</title>
-</programme>
-
-
-<programme start="20260627213000 -0300" stop="20260627220000 -0300" channel="tv.assembleia.pi">
-<title>PIAUI CHEIO DE GRAÇA</title>
-</programme>
-
-
-<programme start="20260627220000 -0300" stop="20260627110000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260627110000 -0300" stop="20260627123000 -0300" channel="tv.assembleia.pi">
-<title>PAUTA CULTURAL -</title>
-</programme>
-
-
-<programme start="20260627123000 -0300" stop="20260627143000 -0300" channel="tv.assembleia.pi">
-<title>BOM GOSTO</title>
-</programme>
-
-
-<programme start="20260627143000 -0300" stop="20260627150000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260627150000 -0300" stop="20260627171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260627171000 -0300" stop="20260627172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260627172000 -0300" stop="20260627173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260627173000 -0300" stop="20260627173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260627173100 -0300" stop="20260627175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260627175000 -0300" stop="20260627180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260627180000 -0300" stop="20260627183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627183000 -0300" stop="20260627190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260627190000 -0300" stop="20260627193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260627193000 -0300" stop="20260627213000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260627213000 -0300" stop="20260627103000 -0300" channel="tv.assembleia.pi">
-<title>CENA ABERTA</title>
-</programme>
-
-
-<programme start="20260627103000 -0300" stop="20260627110000 -0300" channel="tv.assembleia.pi">
-<title>VER OUVIR E SENTIR</title>
-</programme>
-
-
-<programme start="20260627110000 -0300" stop="20260627120000 -0300" channel="tv.assembleia.pi">
-<title>MÚSICA PARA TODOS</title>
-</programme>
-
-
-<programme start="20260627120000 -0300" stop="20260627133000 -0300" channel="tv.assembleia.pi">
-<title>PAUTA CULTURAL -</title>
-</programme>
-
-
-<programme start="20260627133000 -0300" stop="20260627140000 -0300" channel="tv.assembleia.pi">
-<title>BOM GOSTO</title>
-</programme>
-
-
-<programme start="20260627140000 -0300" stop="20260627143000 -0300" channel="tv.assembleia.pi">
-<title>PIAUÍ CHEIO DE GRAÇA -</title>
-</programme>
-
-
-<programme start="20260627143000 -0300" stop="20260627153000 -0300" channel="tv.assembleia.pi">
-<title>FEITO EM CASA</title>
-</programme>
-
-
-<programme start="20260627153000 -0300" stop="20260627174500 -0300" channel="tv.assembleia.pi">
-<title>ESTÚDIO INTERATIVO -</title>
-</programme>
-
-
-<programme start="20260627174500 -0300" stop="20260627183000 -0300" channel="tv.assembleia.pi">
-<title>CENA ABERTA –</title>
-</programme>
-
-
-<programme start="20260627183000 -0300" stop="20260627190000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260627190000 -0300" stop="20260627200000 -0300" channel="tv.assembleia.pi">
-<title>SARAU 17.1 -</title>
-</programme>
-
-
-<programme start="20260627200000 -0300" stop="20260627220000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260627220000 -0300" stop="20260627100000 -0300" channel="tv.assembleia.pi">
-<title>APAE -</title>
-</programme>
-
-
-<programme start="20260627100000 -0300" stop="20260627103000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260627103000 -0300" stop="20260627110000 -0300" channel="tv.assembleia.pi">
-<title>VER OUVIR E SENTIR -</title>
-</programme>
-
-
-<programme start="20260627110000 -0300" stop="20260627120000 -0300" channel="tv.assembleia.pi">
-<title>MÚSICA PARA TODOS -</title>
-</programme>
-
-
-<programme start="20260627120000 -0300" stop="20260627160000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260627160000 -0300" stop="20260627200000 -0300" channel="tv.assembleia.pi">
-<title>SOB OUTRO OLHAR –</title>
-</programme>
-
-
-<programme start="20260627200000 -0300" stop="20260627210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628120000 -0300" stop="20260628130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260628130000 -0300" stop="20260628143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260628143000 -0300" stop="20260628150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA –</title>
-</programme>
-
-
-<programme start="20260628150000 -0300" stop="20260628171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628171000 -0300" stop="20260628172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260628172000 -0300" stop="20260628173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260628173000 -0300" stop="20260628173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260628173100 -0300" stop="20260628175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260628175000 -0300" stop="20260628180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260628180000 -0300" stop="20260628183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628183000 -0300" stop="20260628190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260628190000 -0300" stop="20260628193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO-</title>
-</programme>
-
-
-<programme start="20260628193000 -0300" stop="20260628210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260628210000 -0300" stop="20260628213000 -0300" channel="tv.assembleia.pi">
-<title>MATUTANDO</title>
-</programme>
-
-
-<programme start="20260628213000 -0300" stop="20260628220000 -0300" channel="tv.assembleia.pi">
-<title>PIAUÍ QUE PRODUZ -</title>
-</programme>
-
-
-<programme start="20260628220000 -0300" stop="20260628120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260628120000 -0300" stop="20260628130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260628130000 -0300" stop="20260628143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628143000 -0300" stop="20260628150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA / AJUSPI –</title>
-</programme>
-
-
-<programme start="20260628150000 -0300" stop="20260628171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628171000 -0300" stop="20260628172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260628172000 -0300" stop="20260628173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260628173000 -0300" stop="20260628173000 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260628173000 -0300" stop="20260628174000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260628174000 -0300" stop="20260628175000 -0300" channel="tv.assembleia.pi">
-<title>MPTV</title>
-</programme>
-
-
-<programme start="20260628175000 -0300" stop="20260628180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260628180000 -0300" stop="20260628183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628183000 -0300" stop="20260628190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260628190000 -0300" stop="20260628193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628193000 -0300" stop="20260628210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260628210000 -0300" stop="20260628220000 -0300" channel="tv.assembleia.pi">
-<title>SARAU 17.1</title>
-</programme>
-
-
-<programme start="20260628220000 -0300" stop="20260628120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA –</title>
-</programme>
-
-
-<programme start="20260628120000 -0300" stop="20260628130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260628130000 -0300" stop="20260628143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628143000 -0300" stop="20260628150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA -</title>
-</programme>
-
-
-<programme start="20260628150000 -0300" stop="20260628171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628171000 -0300" stop="20260628172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260628172000 -0300" stop="20260628173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260628173000 -0300" stop="20260628173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260628173100 -0300" stop="20260628175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260628175000 -0300" stop="20260628180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260628180000 -0300" stop="20260628183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628183000 -0300" stop="20260628190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260628190000 -0300" stop="20260628193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628193000 -0300" stop="20260628213000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI - FAROESTE</title>
-</programme>
-
-
-<programme start="20260628213000 -0300" stop="20260628220000 -0300" channel="tv.assembleia.pi">
-<title>SOB OUTRO OLHAR</title>
-</programme>
-
-
-<programme start="20260628220000 -0300" stop="20260628120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260628120000 -0300" stop="20260628130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260628130000 -0300" stop="20260628143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628143000 -0300" stop="20260628153000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA -</title>
-</programme>
-
-
-<programme start="20260628153000 -0300" stop="20260628171000 -0300" channel="tv.assembleia.pi">
-<title>ESTÚDIO INTERATIVO –</title>
-</programme>
-
-
-<programme start="20260628171000 -0300" stop="20260628172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260628172000 -0300" stop="20260628173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260628173000 -0300" stop="20260628173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260628173100 -0300" stop="20260628174000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260628174000 -0300" stop="20260628175000 -0300" channel="tv.assembleia.pi">
-<title>MPTV</title>
-</programme>
-
-
-<programme start="20260628175000 -0300" stop="20260628180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260628180000 -0300" stop="20260628183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628183000 -0300" stop="20260628190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260628190000 -0300" stop="20260628193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628193000 -0300" stop="20260628210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260628210000 -0300" stop="20260628213000 -0300" channel="tv.assembleia.pi">
-<title>APAE</title>
-</programme>
-
-
-<programme start="20260628213000 -0300" stop="20260628220000 -0300" channel="tv.assembleia.pi">
-<title>PIAUI CHEIO DE GRAÇA</title>
-</programme>
-
-
-<programme start="20260628220000 -0300" stop="20260628110000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260628110000 -0300" stop="20260628123000 -0300" channel="tv.assembleia.pi">
-<title>PAUTA CULTURAL -</title>
-</programme>
-
-
-<programme start="20260628123000 -0300" stop="20260628143000 -0300" channel="tv.assembleia.pi">
-<title>BOM GOSTO</title>
-</programme>
-
-
-<programme start="20260628143000 -0300" stop="20260628150000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260628150000 -0300" stop="20260628171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628171000 -0300" stop="20260628172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260628172000 -0300" stop="20260628173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260628173000 -0300" stop="20260628173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260628173100 -0300" stop="20260628175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260628175000 -0300" stop="20260628180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260628180000 -0300" stop="20260628183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628183000 -0300" stop="20260628190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260628190000 -0300" stop="20260628193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260628193000 -0300" stop="20260628213000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260628213000 -0300" stop="20260628103000 -0300" channel="tv.assembleia.pi">
-<title>CENA ABERTA</title>
-</programme>
-
-
-<programme start="20260628103000 -0300" stop="20260628110000 -0300" channel="tv.assembleia.pi">
-<title>VER OUVIR E SENTIR</title>
-</programme>
-
-
-<programme start="20260628110000 -0300" stop="20260628120000 -0300" channel="tv.assembleia.pi">
-<title>MÚSICA PARA TODOS</title>
-</programme>
-
-
-<programme start="20260628120000 -0300" stop="20260628133000 -0300" channel="tv.assembleia.pi">
-<title>PAUTA CULTURAL -</title>
-</programme>
-
-
-<programme start="20260628133000 -0300" stop="20260628140000 -0300" channel="tv.assembleia.pi">
-<title>BOM GOSTO</title>
-</programme>
-
-
-<programme start="20260628140000 -0300" stop="20260628143000 -0300" channel="tv.assembleia.pi">
-<title>PIAUÍ CHEIO DE GRAÇA -</title>
-</programme>
-
-
-<programme start="20260628143000 -0300" stop="20260628153000 -0300" channel="tv.assembleia.pi">
-<title>FEITO EM CASA</title>
-</programme>
-
-
-<programme start="20260628153000 -0300" stop="20260628174500 -0300" channel="tv.assembleia.pi">
-<title>ESTÚDIO INTERATIVO -</title>
-</programme>
-
-
-<programme start="20260628174500 -0300" stop="20260628183000 -0300" channel="tv.assembleia.pi">
-<title>CENA ABERTA –</title>
-</programme>
-
-
-<programme start="20260628183000 -0300" stop="20260628190000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260628190000 -0300" stop="20260628200000 -0300" channel="tv.assembleia.pi">
-<title>SARAU 17.1 -</title>
-</programme>
-
-
-<programme start="20260628200000 -0300" stop="20260628220000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628220000 -0300" stop="20260628100000 -0300" channel="tv.assembleia.pi">
-<title>APAE -</title>
-</programme>
-
-
-<programme start="20260628100000 -0300" stop="20260628103000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260628103000 -0300" stop="20260628110000 -0300" channel="tv.assembleia.pi">
-<title>VER OUVIR E SENTIR -</title>
-</programme>
-
-
-<programme start="20260628110000 -0300" stop="20260628120000 -0300" channel="tv.assembleia.pi">
-<title>MÚSICA PARA TODOS -</title>
-</programme>
-
-
-<programme start="20260628120000 -0300" stop="20260628160000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260628160000 -0300" stop="20260628200000 -0300" channel="tv.assembleia.pi">
-<title>SOB OUTRO OLHAR –</title>
-</programme>
-
-
-<programme start="20260628200000 -0300" stop="20260628210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629120000 -0300" stop="20260629130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260629130000 -0300" stop="20260629143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260629143000 -0300" stop="20260629150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA –</title>
-</programme>
-
-
-<programme start="20260629150000 -0300" stop="20260629171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629171000 -0300" stop="20260629172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260629172000 -0300" stop="20260629173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260629173000 -0300" stop="20260629173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260629173100 -0300" stop="20260629175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260629175000 -0300" stop="20260629180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260629180000 -0300" stop="20260629183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629183000 -0300" stop="20260629190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260629190000 -0300" stop="20260629193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO-</title>
-</programme>
-
-
-<programme start="20260629193000 -0300" stop="20260629210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260629210000 -0300" stop="20260629213000 -0300" channel="tv.assembleia.pi">
-<title>MATUTANDO</title>
-</programme>
-
-
-<programme start="20260629213000 -0300" stop="20260629220000 -0300" channel="tv.assembleia.pi">
-<title>PIAUÍ QUE PRODUZ -</title>
-</programme>
-
-
-<programme start="20260629220000 -0300" stop="20260629120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260629120000 -0300" stop="20260629130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260629130000 -0300" stop="20260629143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629143000 -0300" stop="20260629150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA / AJUSPI –</title>
-</programme>
-
-
-<programme start="20260629150000 -0300" stop="20260629171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629171000 -0300" stop="20260629172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260629172000 -0300" stop="20260629173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260629173000 -0300" stop="20260629173000 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260629173000 -0300" stop="20260629174000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260629174000 -0300" stop="20260629175000 -0300" channel="tv.assembleia.pi">
-<title>MPTV</title>
-</programme>
-
-
-<programme start="20260629175000 -0300" stop="20260629180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260629180000 -0300" stop="20260629183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629183000 -0300" stop="20260629190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260629190000 -0300" stop="20260629193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629193000 -0300" stop="20260629210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260629210000 -0300" stop="20260629220000 -0300" channel="tv.assembleia.pi">
-<title>SARAU 17.1</title>
-</programme>
-
-
-<programme start="20260629220000 -0300" stop="20260629120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA –</title>
-</programme>
-
-
-<programme start="20260629120000 -0300" stop="20260629130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260629130000 -0300" stop="20260629143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629143000 -0300" stop="20260629150000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA -</title>
-</programme>
-
-
-<programme start="20260629150000 -0300" stop="20260629171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629171000 -0300" stop="20260629172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260629172000 -0300" stop="20260629173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260629173000 -0300" stop="20260629173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260629173100 -0300" stop="20260629175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260629175000 -0300" stop="20260629180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260629180000 -0300" stop="20260629183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629183000 -0300" stop="20260629190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260629190000 -0300" stop="20260629193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629193000 -0300" stop="20260629213000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI - FAROESTE</title>
-</programme>
-
-
-<programme start="20260629213000 -0300" stop="20260629220000 -0300" channel="tv.assembleia.pi">
-<title>SOB OUTRO OLHAR</title>
-</programme>
-
-
-<programme start="20260629220000 -0300" stop="20260629120000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260629120000 -0300" stop="20260629130000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
-</programme>
-
-
-<programme start="20260629130000 -0300" stop="20260629143000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629143000 -0300" stop="20260629153000 -0300" channel="tv.assembleia.pi">
-<title>PALAVRA ABERTA -</title>
-</programme>
-
-
-<programme start="20260629153000 -0300" stop="20260629171000 -0300" channel="tv.assembleia.pi">
-<title>ESTÚDIO INTERATIVO –</title>
-</programme>
-
-
-<programme start="20260629171000 -0300" stop="20260629172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260629172000 -0300" stop="20260629173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260629173000 -0300" stop="20260629173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260629173100 -0300" stop="20260629174000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260629174000 -0300" stop="20260629175000 -0300" channel="tv.assembleia.pi">
-<title>MPTV</title>
-</programme>
-
-
-<programme start="20260629175000 -0300" stop="20260629180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260629180000 -0300" stop="20260629183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629183000 -0300" stop="20260629190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260629190000 -0300" stop="20260629193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629193000 -0300" stop="20260629210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260629210000 -0300" stop="20260629213000 -0300" channel="tv.assembleia.pi">
-<title>APAE</title>
-</programme>
-
-
-<programme start="20260629213000 -0300" stop="20260629220000 -0300" channel="tv.assembleia.pi">
-<title>PIAUI CHEIO DE GRAÇA</title>
-</programme>
-
-
-<programme start="20260629220000 -0300" stop="20260629110000 -0300" channel="tv.assembleia.pi">
-<title>SESSÃO PLENÁRIA -</title>
-</programme>
-
-
-<programme start="20260629110000 -0300" stop="20260629123000 -0300" channel="tv.assembleia.pi">
-<title>PAUTA CULTURAL -</title>
-</programme>
-
-
-<programme start="20260629123000 -0300" stop="20260629143000 -0300" channel="tv.assembleia.pi">
-<title>BOM GOSTO</title>
-</programme>
-
-
-<programme start="20260629143000 -0300" stop="20260629150000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260629150000 -0300" stop="20260629171000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629171000 -0300" stop="20260629172000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA –</title>
-</programme>
-
-
-<programme start="20260629172000 -0300" stop="20260629173000 -0300" channel="tv.assembleia.pi">
-<title>CRIATIVIDADE</title>
-</programme>
-
-
-<programme start="20260629173000 -0300" stop="20260629173100 -0300" channel="tv.assembleia.pi">
-<title>DIRETO DO SITE - TARDE</title>
-</programme>
-
-
-<programme start="20260629173100 -0300" stop="20260629175000 -0300" channel="tv.assembleia.pi">
-<title>O DONO DA RUA</title>
-</programme>
-
-
-<programme start="20260629175000 -0300" stop="20260629180000 -0300" channel="tv.assembleia.pi">
-<title>RAZÕES DA FÉ</title>
-</programme>
-
-
-<programme start="20260629180000 -0300" stop="20260629183000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629183000 -0300" stop="20260629190000 -0300" channel="tv.assembleia.pi">
-<title>ESPORTE NA ÁREA -</title>
-</programme>
-
-
-<programme start="20260629190000 -0300" stop="20260629193000 -0300" channel="tv.assembleia.pi">
-<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
-</programme>
-
-
-<programme start="20260629193000 -0300" stop="20260629213000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI – FAROESTE</title>
-</programme>
-
-
-<programme start="20260629213000 -0300" stop="20260629103000 -0300" channel="tv.assembleia.pi">
-<title>CENA ABERTA</title>
-</programme>
-
-
-<programme start="20260629103000 -0300" stop="20260629110000 -0300" channel="tv.assembleia.pi">
-<title>VER OUVIR E SENTIR</title>
-</programme>
-
-
-<programme start="20260629110000 -0300" stop="20260629120000 -0300" channel="tv.assembleia.pi">
-<title>MÚSICA PARA TODOS</title>
-</programme>
-
-
-<programme start="20260629120000 -0300" stop="20260629133000 -0300" channel="tv.assembleia.pi">
-<title>PAUTA CULTURAL -</title>
-</programme>
-
-
-<programme start="20260629133000 -0300" stop="20260629140000 -0300" channel="tv.assembleia.pi">
-<title>BOM GOSTO</title>
-</programme>
-
-
-<programme start="20260629140000 -0300" stop="20260629143000 -0300" channel="tv.assembleia.pi">
-<title>PIAUÍ CHEIO DE GRAÇA -</title>
-</programme>
-
-
-<programme start="20260629143000 -0300" stop="20260629153000 -0300" channel="tv.assembleia.pi">
-<title>FEITO EM CASA</title>
-</programme>
-
-
-<programme start="20260629153000 -0300" stop="20260629174500 -0300" channel="tv.assembleia.pi">
-<title>ESTÚDIO INTERATIVO -</title>
-</programme>
-
-
-<programme start="20260629174500 -0300" stop="20260629183000 -0300" channel="tv.assembleia.pi">
-<title>CENA ABERTA –</title>
-</programme>
-
-
-<programme start="20260629183000 -0300" stop="20260629190000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260629190000 -0300" stop="20260629200000 -0300" channel="tv.assembleia.pi">
-<title>SARAU 17.1 -</title>
-</programme>
-
-
-<programme start="20260629200000 -0300" stop="20260629220000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629220000 -0300" stop="20260629100000 -0300" channel="tv.assembleia.pi">
-<title>APAE -</title>
-</programme>
-
-
-<programme start="20260629100000 -0300" stop="20260629103000 -0300" channel="tv.assembleia.pi">
-<title>MUSICALÍSSIMA</title>
-</programme>
-
-
-<programme start="20260629103000 -0300" stop="20260629110000 -0300" channel="tv.assembleia.pi">
-<title>VER OUVIR E SENTIR -</title>
-</programme>
-
-
-<programme start="20260629110000 -0300" stop="20260629120000 -0300" channel="tv.assembleia.pi">
-<title>MÚSICA PARA TODOS -</title>
-</programme>
-
-
-<programme start="20260629120000 -0300" stop="20260629160000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
-<programme start="20260629160000 -0300" stop="20260629200000 -0300" channel="tv.assembleia.pi">
-<title>SOB OUTRO OLHAR –</title>
-</programme>
-
-
-<programme start="20260629200000 -0300" stop="20260629210000 -0300" channel="tv.assembleia.pi">
-<title>CINE ALEPI</title>
-</programme>
-
-
 <programme start="20260630120000 -0300" stop="20260630130000 -0300" channel="tv.assembleia.pi">
 <title>JORNAL ALEPI 1ª EDIÇÃO –</title>
 </programme>
@@ -3358,6 +1918,1446 @@
 
 
 <programme start="20260703200000 -0300" stop="20260703210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704120000 -0300" stop="20260704130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260704130000 -0300" stop="20260704143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260704143000 -0300" stop="20260704150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA –</title>
+</programme>
+
+
+<programme start="20260704150000 -0300" stop="20260704171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704171000 -0300" stop="20260704172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260704172000 -0300" stop="20260704173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260704173000 -0300" stop="20260704173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260704173100 -0300" stop="20260704175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260704175000 -0300" stop="20260704180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260704180000 -0300" stop="20260704183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704183000 -0300" stop="20260704190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260704190000 -0300" stop="20260704193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO-</title>
+</programme>
+
+
+<programme start="20260704193000 -0300" stop="20260704210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260704210000 -0300" stop="20260704213000 -0300" channel="tv.assembleia.pi">
+<title>MATUTANDO</title>
+</programme>
+
+
+<programme start="20260704213000 -0300" stop="20260704220000 -0300" channel="tv.assembleia.pi">
+<title>PIAUÍ QUE PRODUZ -</title>
+</programme>
+
+
+<programme start="20260704220000 -0300" stop="20260704120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260704120000 -0300" stop="20260704130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260704130000 -0300" stop="20260704143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704143000 -0300" stop="20260704150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA / AJUSPI –</title>
+</programme>
+
+
+<programme start="20260704150000 -0300" stop="20260704171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704171000 -0300" stop="20260704172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260704172000 -0300" stop="20260704173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260704173000 -0300" stop="20260704173000 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260704173000 -0300" stop="20260704174000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260704174000 -0300" stop="20260704175000 -0300" channel="tv.assembleia.pi">
+<title>MPTV</title>
+</programme>
+
+
+<programme start="20260704175000 -0300" stop="20260704180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260704180000 -0300" stop="20260704183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704183000 -0300" stop="20260704190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260704190000 -0300" stop="20260704193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704193000 -0300" stop="20260704210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260704210000 -0300" stop="20260704220000 -0300" channel="tv.assembleia.pi">
+<title>SARAU 17.1</title>
+</programme>
+
+
+<programme start="20260704220000 -0300" stop="20260704120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA –</title>
+</programme>
+
+
+<programme start="20260704120000 -0300" stop="20260704130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260704130000 -0300" stop="20260704143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704143000 -0300" stop="20260704150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA -</title>
+</programme>
+
+
+<programme start="20260704150000 -0300" stop="20260704171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704171000 -0300" stop="20260704172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260704172000 -0300" stop="20260704173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260704173000 -0300" stop="20260704173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260704173100 -0300" stop="20260704175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260704175000 -0300" stop="20260704180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260704180000 -0300" stop="20260704183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704183000 -0300" stop="20260704190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260704190000 -0300" stop="20260704193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704193000 -0300" stop="20260704213000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI - FAROESTE</title>
+</programme>
+
+
+<programme start="20260704213000 -0300" stop="20260704220000 -0300" channel="tv.assembleia.pi">
+<title>SOB OUTRO OLHAR</title>
+</programme>
+
+
+<programme start="20260704220000 -0300" stop="20260704120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260704120000 -0300" stop="20260704130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260704130000 -0300" stop="20260704143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704143000 -0300" stop="20260704153000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA -</title>
+</programme>
+
+
+<programme start="20260704153000 -0300" stop="20260704171000 -0300" channel="tv.assembleia.pi">
+<title>ESTÚDIO INTERATIVO –</title>
+</programme>
+
+
+<programme start="20260704171000 -0300" stop="20260704172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260704172000 -0300" stop="20260704173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260704173000 -0300" stop="20260704173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260704173100 -0300" stop="20260704174000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260704174000 -0300" stop="20260704175000 -0300" channel="tv.assembleia.pi">
+<title>MPTV</title>
+</programme>
+
+
+<programme start="20260704175000 -0300" stop="20260704180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260704180000 -0300" stop="20260704183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704183000 -0300" stop="20260704190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260704190000 -0300" stop="20260704193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704193000 -0300" stop="20260704210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260704210000 -0300" stop="20260704213000 -0300" channel="tv.assembleia.pi">
+<title>APAE</title>
+</programme>
+
+
+<programme start="20260704213000 -0300" stop="20260704220000 -0300" channel="tv.assembleia.pi">
+<title>PIAUI CHEIO DE GRAÇA</title>
+</programme>
+
+
+<programme start="20260704220000 -0300" stop="20260704110000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260704110000 -0300" stop="20260704123000 -0300" channel="tv.assembleia.pi">
+<title>PAUTA CULTURAL -</title>
+</programme>
+
+
+<programme start="20260704123000 -0300" stop="20260704143000 -0300" channel="tv.assembleia.pi">
+<title>BOM GOSTO</title>
+</programme>
+
+
+<programme start="20260704143000 -0300" stop="20260704150000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260704150000 -0300" stop="20260704171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704171000 -0300" stop="20260704172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260704172000 -0300" stop="20260704173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260704173000 -0300" stop="20260704173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260704173100 -0300" stop="20260704175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260704175000 -0300" stop="20260704180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260704180000 -0300" stop="20260704183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704183000 -0300" stop="20260704190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260704190000 -0300" stop="20260704193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260704193000 -0300" stop="20260704213000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260704213000 -0300" stop="20260704103000 -0300" channel="tv.assembleia.pi">
+<title>CENA ABERTA</title>
+</programme>
+
+
+<programme start="20260704103000 -0300" stop="20260704110000 -0300" channel="tv.assembleia.pi">
+<title>VER OUVIR E SENTIR</title>
+</programme>
+
+
+<programme start="20260704110000 -0300" stop="20260704120000 -0300" channel="tv.assembleia.pi">
+<title>MÚSICA PARA TODOS</title>
+</programme>
+
+
+<programme start="20260704120000 -0300" stop="20260704133000 -0300" channel="tv.assembleia.pi">
+<title>PAUTA CULTURAL -</title>
+</programme>
+
+
+<programme start="20260704133000 -0300" stop="20260704140000 -0300" channel="tv.assembleia.pi">
+<title>BOM GOSTO</title>
+</programme>
+
+
+<programme start="20260704140000 -0300" stop="20260704143000 -0300" channel="tv.assembleia.pi">
+<title>PIAUÍ CHEIO DE GRAÇA -</title>
+</programme>
+
+
+<programme start="20260704143000 -0300" stop="20260704153000 -0300" channel="tv.assembleia.pi">
+<title>FEITO EM CASA</title>
+</programme>
+
+
+<programme start="20260704153000 -0300" stop="20260704174500 -0300" channel="tv.assembleia.pi">
+<title>ESTÚDIO INTERATIVO -</title>
+</programme>
+
+
+<programme start="20260704174500 -0300" stop="20260704183000 -0300" channel="tv.assembleia.pi">
+<title>CENA ABERTA –</title>
+</programme>
+
+
+<programme start="20260704183000 -0300" stop="20260704190000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260704190000 -0300" stop="20260704200000 -0300" channel="tv.assembleia.pi">
+<title>SARAU 17.1 -</title>
+</programme>
+
+
+<programme start="20260704200000 -0300" stop="20260704220000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704220000 -0300" stop="20260704100000 -0300" channel="tv.assembleia.pi">
+<title>APAE -</title>
+</programme>
+
+
+<programme start="20260704100000 -0300" stop="20260704103000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260704103000 -0300" stop="20260704110000 -0300" channel="tv.assembleia.pi">
+<title>VER OUVIR E SENTIR -</title>
+</programme>
+
+
+<programme start="20260704110000 -0300" stop="20260704120000 -0300" channel="tv.assembleia.pi">
+<title>MÚSICA PARA TODOS -</title>
+</programme>
+
+
+<programme start="20260704120000 -0300" stop="20260704160000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260704160000 -0300" stop="20260704200000 -0300" channel="tv.assembleia.pi">
+<title>SOB OUTRO OLHAR –</title>
+</programme>
+
+
+<programme start="20260704200000 -0300" stop="20260704210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705120000 -0300" stop="20260705130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260705130000 -0300" stop="20260705143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260705143000 -0300" stop="20260705150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA –</title>
+</programme>
+
+
+<programme start="20260705150000 -0300" stop="20260705171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705171000 -0300" stop="20260705172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260705172000 -0300" stop="20260705173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260705173000 -0300" stop="20260705173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260705173100 -0300" stop="20260705175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260705175000 -0300" stop="20260705180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260705180000 -0300" stop="20260705183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705183000 -0300" stop="20260705190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260705190000 -0300" stop="20260705193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO-</title>
+</programme>
+
+
+<programme start="20260705193000 -0300" stop="20260705210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260705210000 -0300" stop="20260705213000 -0300" channel="tv.assembleia.pi">
+<title>MATUTANDO</title>
+</programme>
+
+
+<programme start="20260705213000 -0300" stop="20260705220000 -0300" channel="tv.assembleia.pi">
+<title>PIAUÍ QUE PRODUZ -</title>
+</programme>
+
+
+<programme start="20260705220000 -0300" stop="20260705120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260705120000 -0300" stop="20260705130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260705130000 -0300" stop="20260705143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705143000 -0300" stop="20260705150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA / AJUSPI –</title>
+</programme>
+
+
+<programme start="20260705150000 -0300" stop="20260705171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705171000 -0300" stop="20260705172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260705172000 -0300" stop="20260705173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260705173000 -0300" stop="20260705173000 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260705173000 -0300" stop="20260705174000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260705174000 -0300" stop="20260705175000 -0300" channel="tv.assembleia.pi">
+<title>MPTV</title>
+</programme>
+
+
+<programme start="20260705175000 -0300" stop="20260705180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260705180000 -0300" stop="20260705183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705183000 -0300" stop="20260705190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260705190000 -0300" stop="20260705193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705193000 -0300" stop="20260705210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260705210000 -0300" stop="20260705220000 -0300" channel="tv.assembleia.pi">
+<title>SARAU 17.1</title>
+</programme>
+
+
+<programme start="20260705220000 -0300" stop="20260705120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA –</title>
+</programme>
+
+
+<programme start="20260705120000 -0300" stop="20260705130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260705130000 -0300" stop="20260705143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705143000 -0300" stop="20260705150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA -</title>
+</programme>
+
+
+<programme start="20260705150000 -0300" stop="20260705171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705171000 -0300" stop="20260705172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260705172000 -0300" stop="20260705173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260705173000 -0300" stop="20260705173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260705173100 -0300" stop="20260705175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260705175000 -0300" stop="20260705180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260705180000 -0300" stop="20260705183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705183000 -0300" stop="20260705190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260705190000 -0300" stop="20260705193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705193000 -0300" stop="20260705213000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI - FAROESTE</title>
+</programme>
+
+
+<programme start="20260705213000 -0300" stop="20260705220000 -0300" channel="tv.assembleia.pi">
+<title>SOB OUTRO OLHAR</title>
+</programme>
+
+
+<programme start="20260705220000 -0300" stop="20260705120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260705120000 -0300" stop="20260705130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260705130000 -0300" stop="20260705143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705143000 -0300" stop="20260705153000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA -</title>
+</programme>
+
+
+<programme start="20260705153000 -0300" stop="20260705171000 -0300" channel="tv.assembleia.pi">
+<title>ESTÚDIO INTERATIVO –</title>
+</programme>
+
+
+<programme start="20260705171000 -0300" stop="20260705172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260705172000 -0300" stop="20260705173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260705173000 -0300" stop="20260705173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260705173100 -0300" stop="20260705174000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260705174000 -0300" stop="20260705175000 -0300" channel="tv.assembleia.pi">
+<title>MPTV</title>
+</programme>
+
+
+<programme start="20260705175000 -0300" stop="20260705180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260705180000 -0300" stop="20260705183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705183000 -0300" stop="20260705190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260705190000 -0300" stop="20260705193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705193000 -0300" stop="20260705210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260705210000 -0300" stop="20260705213000 -0300" channel="tv.assembleia.pi">
+<title>APAE</title>
+</programme>
+
+
+<programme start="20260705213000 -0300" stop="20260705220000 -0300" channel="tv.assembleia.pi">
+<title>PIAUI CHEIO DE GRAÇA</title>
+</programme>
+
+
+<programme start="20260705220000 -0300" stop="20260705110000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260705110000 -0300" stop="20260705123000 -0300" channel="tv.assembleia.pi">
+<title>PAUTA CULTURAL -</title>
+</programme>
+
+
+<programme start="20260705123000 -0300" stop="20260705143000 -0300" channel="tv.assembleia.pi">
+<title>BOM GOSTO</title>
+</programme>
+
+
+<programme start="20260705143000 -0300" stop="20260705150000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260705150000 -0300" stop="20260705171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705171000 -0300" stop="20260705172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260705172000 -0300" stop="20260705173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260705173000 -0300" stop="20260705173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260705173100 -0300" stop="20260705175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260705175000 -0300" stop="20260705180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260705180000 -0300" stop="20260705183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705183000 -0300" stop="20260705190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260705190000 -0300" stop="20260705193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260705193000 -0300" stop="20260705213000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260705213000 -0300" stop="20260705103000 -0300" channel="tv.assembleia.pi">
+<title>CENA ABERTA</title>
+</programme>
+
+
+<programme start="20260705103000 -0300" stop="20260705110000 -0300" channel="tv.assembleia.pi">
+<title>VER OUVIR E SENTIR</title>
+</programme>
+
+
+<programme start="20260705110000 -0300" stop="20260705120000 -0300" channel="tv.assembleia.pi">
+<title>MÚSICA PARA TODOS</title>
+</programme>
+
+
+<programme start="20260705120000 -0300" stop="20260705133000 -0300" channel="tv.assembleia.pi">
+<title>PAUTA CULTURAL -</title>
+</programme>
+
+
+<programme start="20260705133000 -0300" stop="20260705140000 -0300" channel="tv.assembleia.pi">
+<title>BOM GOSTO</title>
+</programme>
+
+
+<programme start="20260705140000 -0300" stop="20260705143000 -0300" channel="tv.assembleia.pi">
+<title>PIAUÍ CHEIO DE GRAÇA -</title>
+</programme>
+
+
+<programme start="20260705143000 -0300" stop="20260705153000 -0300" channel="tv.assembleia.pi">
+<title>FEITO EM CASA</title>
+</programme>
+
+
+<programme start="20260705153000 -0300" stop="20260705174500 -0300" channel="tv.assembleia.pi">
+<title>ESTÚDIO INTERATIVO -</title>
+</programme>
+
+
+<programme start="20260705174500 -0300" stop="20260705183000 -0300" channel="tv.assembleia.pi">
+<title>CENA ABERTA –</title>
+</programme>
+
+
+<programme start="20260705183000 -0300" stop="20260705190000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260705190000 -0300" stop="20260705200000 -0300" channel="tv.assembleia.pi">
+<title>SARAU 17.1 -</title>
+</programme>
+
+
+<programme start="20260705200000 -0300" stop="20260705220000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705220000 -0300" stop="20260705100000 -0300" channel="tv.assembleia.pi">
+<title>APAE -</title>
+</programme>
+
+
+<programme start="20260705100000 -0300" stop="20260705103000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260705103000 -0300" stop="20260705110000 -0300" channel="tv.assembleia.pi">
+<title>VER OUVIR E SENTIR -</title>
+</programme>
+
+
+<programme start="20260705110000 -0300" stop="20260705120000 -0300" channel="tv.assembleia.pi">
+<title>MÚSICA PARA TODOS -</title>
+</programme>
+
+
+<programme start="20260705120000 -0300" stop="20260705160000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260705160000 -0300" stop="20260705200000 -0300" channel="tv.assembleia.pi">
+<title>SOB OUTRO OLHAR –</title>
+</programme>
+
+
+<programme start="20260705200000 -0300" stop="20260705210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706120000 -0300" stop="20260706130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260706130000 -0300" stop="20260706143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260706143000 -0300" stop="20260706150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA –</title>
+</programme>
+
+
+<programme start="20260706150000 -0300" stop="20260706171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706171000 -0300" stop="20260706172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260706172000 -0300" stop="20260706173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260706173000 -0300" stop="20260706173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260706173100 -0300" stop="20260706175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260706175000 -0300" stop="20260706180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260706180000 -0300" stop="20260706183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706183000 -0300" stop="20260706190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260706190000 -0300" stop="20260706193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO-</title>
+</programme>
+
+
+<programme start="20260706193000 -0300" stop="20260706210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260706210000 -0300" stop="20260706213000 -0300" channel="tv.assembleia.pi">
+<title>MATUTANDO</title>
+</programme>
+
+
+<programme start="20260706213000 -0300" stop="20260706220000 -0300" channel="tv.assembleia.pi">
+<title>PIAUÍ QUE PRODUZ -</title>
+</programme>
+
+
+<programme start="20260706220000 -0300" stop="20260706120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260706120000 -0300" stop="20260706130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260706130000 -0300" stop="20260706143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706143000 -0300" stop="20260706150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA / AJUSPI –</title>
+</programme>
+
+
+<programme start="20260706150000 -0300" stop="20260706171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706171000 -0300" stop="20260706172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260706172000 -0300" stop="20260706173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260706173000 -0300" stop="20260706173000 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260706173000 -0300" stop="20260706174000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260706174000 -0300" stop="20260706175000 -0300" channel="tv.assembleia.pi">
+<title>MPTV</title>
+</programme>
+
+
+<programme start="20260706175000 -0300" stop="20260706180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260706180000 -0300" stop="20260706183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706183000 -0300" stop="20260706190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260706190000 -0300" stop="20260706193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706193000 -0300" stop="20260706210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260706210000 -0300" stop="20260706220000 -0300" channel="tv.assembleia.pi">
+<title>SARAU 17.1</title>
+</programme>
+
+
+<programme start="20260706220000 -0300" stop="20260706120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA –</title>
+</programme>
+
+
+<programme start="20260706120000 -0300" stop="20260706130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260706130000 -0300" stop="20260706143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706143000 -0300" stop="20260706150000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA -</title>
+</programme>
+
+
+<programme start="20260706150000 -0300" stop="20260706171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706171000 -0300" stop="20260706172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260706172000 -0300" stop="20260706173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260706173000 -0300" stop="20260706173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260706173100 -0300" stop="20260706175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260706175000 -0300" stop="20260706180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260706180000 -0300" stop="20260706183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706183000 -0300" stop="20260706190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260706190000 -0300" stop="20260706193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706193000 -0300" stop="20260706213000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI - FAROESTE</title>
+</programme>
+
+
+<programme start="20260706213000 -0300" stop="20260706220000 -0300" channel="tv.assembleia.pi">
+<title>SOB OUTRO OLHAR</title>
+</programme>
+
+
+<programme start="20260706220000 -0300" stop="20260706120000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260706120000 -0300" stop="20260706130000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO –</title>
+</programme>
+
+
+<programme start="20260706130000 -0300" stop="20260706143000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 1ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706143000 -0300" stop="20260706153000 -0300" channel="tv.assembleia.pi">
+<title>PALAVRA ABERTA -</title>
+</programme>
+
+
+<programme start="20260706153000 -0300" stop="20260706171000 -0300" channel="tv.assembleia.pi">
+<title>ESTÚDIO INTERATIVO –</title>
+</programme>
+
+
+<programme start="20260706171000 -0300" stop="20260706172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260706172000 -0300" stop="20260706173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260706173000 -0300" stop="20260706173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260706173100 -0300" stop="20260706174000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260706174000 -0300" stop="20260706175000 -0300" channel="tv.assembleia.pi">
+<title>MPTV</title>
+</programme>
+
+
+<programme start="20260706175000 -0300" stop="20260706180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260706180000 -0300" stop="20260706183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706183000 -0300" stop="20260706190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260706190000 -0300" stop="20260706193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706193000 -0300" stop="20260706210000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260706210000 -0300" stop="20260706213000 -0300" channel="tv.assembleia.pi">
+<title>APAE</title>
+</programme>
+
+
+<programme start="20260706213000 -0300" stop="20260706220000 -0300" channel="tv.assembleia.pi">
+<title>PIAUI CHEIO DE GRAÇA</title>
+</programme>
+
+
+<programme start="20260706220000 -0300" stop="20260706110000 -0300" channel="tv.assembleia.pi">
+<title>SESSÃO PLENÁRIA -</title>
+</programme>
+
+
+<programme start="20260706110000 -0300" stop="20260706123000 -0300" channel="tv.assembleia.pi">
+<title>PAUTA CULTURAL -</title>
+</programme>
+
+
+<programme start="20260706123000 -0300" stop="20260706143000 -0300" channel="tv.assembleia.pi">
+<title>BOM GOSTO</title>
+</programme>
+
+
+<programme start="20260706143000 -0300" stop="20260706150000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260706150000 -0300" stop="20260706171000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706171000 -0300" stop="20260706172000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA –</title>
+</programme>
+
+
+<programme start="20260706172000 -0300" stop="20260706173000 -0300" channel="tv.assembleia.pi">
+<title>CRIATIVIDADE</title>
+</programme>
+
+
+<programme start="20260706173000 -0300" stop="20260706173100 -0300" channel="tv.assembleia.pi">
+<title>DIRETO DO SITE - TARDE</title>
+</programme>
+
+
+<programme start="20260706173100 -0300" stop="20260706175000 -0300" channel="tv.assembleia.pi">
+<title>O DONO DA RUA</title>
+</programme>
+
+
+<programme start="20260706175000 -0300" stop="20260706180000 -0300" channel="tv.assembleia.pi">
+<title>RAZÕES DA FÉ</title>
+</programme>
+
+
+<programme start="20260706180000 -0300" stop="20260706183000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706183000 -0300" stop="20260706190000 -0300" channel="tv.assembleia.pi">
+<title>ESPORTE NA ÁREA -</title>
+</programme>
+
+
+<programme start="20260706190000 -0300" stop="20260706193000 -0300" channel="tv.assembleia.pi">
+<title>JORNAL ALEPI 2ª EDIÇÃO -</title>
+</programme>
+
+
+<programme start="20260706193000 -0300" stop="20260706213000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI – FAROESTE</title>
+</programme>
+
+
+<programme start="20260706213000 -0300" stop="20260706103000 -0300" channel="tv.assembleia.pi">
+<title>CENA ABERTA</title>
+</programme>
+
+
+<programme start="20260706103000 -0300" stop="20260706110000 -0300" channel="tv.assembleia.pi">
+<title>VER OUVIR E SENTIR</title>
+</programme>
+
+
+<programme start="20260706110000 -0300" stop="20260706120000 -0300" channel="tv.assembleia.pi">
+<title>MÚSICA PARA TODOS</title>
+</programme>
+
+
+<programme start="20260706120000 -0300" stop="20260706133000 -0300" channel="tv.assembleia.pi">
+<title>PAUTA CULTURAL -</title>
+</programme>
+
+
+<programme start="20260706133000 -0300" stop="20260706140000 -0300" channel="tv.assembleia.pi">
+<title>BOM GOSTO</title>
+</programme>
+
+
+<programme start="20260706140000 -0300" stop="20260706143000 -0300" channel="tv.assembleia.pi">
+<title>PIAUÍ CHEIO DE GRAÇA -</title>
+</programme>
+
+
+<programme start="20260706143000 -0300" stop="20260706153000 -0300" channel="tv.assembleia.pi">
+<title>FEITO EM CASA</title>
+</programme>
+
+
+<programme start="20260706153000 -0300" stop="20260706174500 -0300" channel="tv.assembleia.pi">
+<title>ESTÚDIO INTERATIVO -</title>
+</programme>
+
+
+<programme start="20260706174500 -0300" stop="20260706183000 -0300" channel="tv.assembleia.pi">
+<title>CENA ABERTA –</title>
+</programme>
+
+
+<programme start="20260706183000 -0300" stop="20260706190000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260706190000 -0300" stop="20260706200000 -0300" channel="tv.assembleia.pi">
+<title>SARAU 17.1 -</title>
+</programme>
+
+
+<programme start="20260706200000 -0300" stop="20260706220000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706220000 -0300" stop="20260706100000 -0300" channel="tv.assembleia.pi">
+<title>APAE -</title>
+</programme>
+
+
+<programme start="20260706100000 -0300" stop="20260706103000 -0300" channel="tv.assembleia.pi">
+<title>MUSICALÍSSIMA</title>
+</programme>
+
+
+<programme start="20260706103000 -0300" stop="20260706110000 -0300" channel="tv.assembleia.pi">
+<title>VER OUVIR E SENTIR -</title>
+</programme>
+
+
+<programme start="20260706110000 -0300" stop="20260706120000 -0300" channel="tv.assembleia.pi">
+<title>MÚSICA PARA TODOS -</title>
+</programme>
+
+
+<programme start="20260706120000 -0300" stop="20260706160000 -0300" channel="tv.assembleia.pi">
+<title>CINE ALEPI</title>
+</programme>
+
+
+<programme start="20260706160000 -0300" stop="20260706200000 -0300" channel="tv.assembleia.pi">
+<title>SOB OUTRO OLHAR –</title>
+</programme>
+
+
+<programme start="20260706200000 -0300" stop="20260706210000 -0300" channel="tv.assembleia.pi">
 <title>CINE ALEPI</title>
 </programme>
 
