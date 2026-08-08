@@ -5,7 +5,7 @@
       "name": "Band Ceara",
       "logo": "https://i.imgur.com/P1p8bqq.png",
       "source": "https://www.band.com.br/",
-      "stream": ""
+      "stream": "http://186.219.52.187:80/cancao_nova/index.m3u8"
     },
     {
       "id": "PlusSBTNovelas.br",
@@ -40,25 +40,13 @@
       "name": "TV Canção Nova",
       "logo": "https://i.imgur.com/wcRWSzc.png",
       "source": "https://tv.cancaonova.com/",
-      "stream": [
-        "http://45.162.64.114/CANCAO_NOVA/index.m3u8",
-        "http://45.190.28.50/CANCAO_NOVA_HD/index.m3u8",
-        "http://138.255.2.6:8084/CANCAONOVA/index.m3u8",
-        "http://168.197.104.22:80/CANCAO_NOVA/index.m3u8",
-        "http://170.83.16.50:80/CANCAO_NOVA/index.m3u8",
-        "http://170.84.165.204:80/CANCAONOVA/index.m3u8",
-        "http://186.219.52.187:80/cancao_nova/index.m3u8",
-        "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
-      ]
+      "stream": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
     },
     {
       "id": "TVAssembleiaPiaui.br",
       "name": "TV Assembleia Piauí",
       "logo": "https://i.imgur.com/eMguSjM.png",
-      "source": [
-        "https://www.al.pi.leg.br/comunicacao/tv-assembleia/",
-        "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao"
-      ],
+      "source": "https://www.al.pi.leg.br/comunicacao/tv-assembleia/programacao",
       "stream": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
     },
     {
@@ -66,21 +54,21 @@
       "name": "TV Alvorada",
       "logo": "https://i.imgur.com/wzx7TsO.png",
       "source": "https://mi.tv/br/canais/tv-alvorada-do-sul-hd",
-      "stream": ""
+      "stream": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8"
     },
     {
       "id": "TVAntena10.br",
       "name": "TV Antena 10",
       "logo": "https://i.imgur.com/M4X95Uc.png",
       "source": "https://mi.tv/br/canais/tv-antena-10-hd",
-      "stream": ""
+      "stream": "http://170.84.165.204:80/CANCAONOVA/index.m3u8"
     },
     {
       "id": "TVCidadeVerdePiaui.br",
       "name": "TV Cidade Verde Piauí",
       "logo": "https://i.imgur.com/vjmpQnR.png",
       "source": "https://mi.tv/br/canais/tv-cidade-verde-hd",
-      "stream": ""
+      "stream": "http://168.197.104.22:80/CANCAO_NOVA/index.m3u8"
     },
     {
       "id": "TVCidadeVerde.br",
@@ -94,7 +82,7 @@
       "name": "Rede Clube",
       "logo": "https://i.imgur.com/YTCFxJw.png",
       "source": "https://mi.tv/br/canais/tv-clube-hd-1",
-      "stream": ""
+      "stream": "http://138.255.2.6:8084/CANCAONOVA/index.m3u8"
     },
     {
       "id": "CazeTV.br",
