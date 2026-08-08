@@ -32,7 +32,7 @@
       "id": "TVCancaoNovaCachoeiraPaulista.br",
       "name": "TV Canção Nova Cachoeira Paulista",
       "logo": "https://i.imgur.com/wcRWSzc.png",
-      "source": "https://tv.cancaonova.com/",
+      "source": "https://mi.tv/br/canais/canc-o-nova-hd",
       "stream": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8"
     },
     {
@@ -111,6 +111,13 @@
       "source": "https://tv.cancaonova.com",
       "stream": "https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1352164720.m3u8",
       "logo": "https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png"
+    },
+    {
+      "id": "BandPiaui.br",
+      "name": "O Dia TV HD",
+      "logo": "https://i.imgur.com/1LUbAVP.png",
+      "source": "https://mi.tv/br/canais/band-piaui-hd",
+      "stream": "https://www.televisaoodia.com.br/"
     }
   ]
 }
