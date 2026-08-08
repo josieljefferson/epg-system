@@ -1,4 +1,32 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/josieljefferson/epg-system/refs/heads/main/output/epg.xml"
+#EXTINF:-1 tvg-id="BandCeara.br" tvg-name="Band Ceara" tvg-logo="https://i.imgur.com/P1p8bqq.png" group-title="Brasil",Band Ceara
+http://186.219.52.187:80/cancao_nova/index.m3u8
+#EXTINF:-1 tvg-id="PlusSBTNovelas.br" tvg-name="+Novelas SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png" group-title="Brasil",+Novelas SBT
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNovaRede.br" tvg-name="TV Canção Nova Rede" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/%2BSBT_2024.svg/960px-%2BSBT_2024.svg.png" group-title="Brasil",TV Canção Nova Rede
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNovaInternacional.br" tvg-name="TV Canção Nova Internacional" tvg-logo="https://i.imgur.com/t1TmO4J.png" group-title="Brasil",TV Canção Nova Internacional
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNovaCachoeiraPaulista.br" tvg-name="TV Canção Nova Cachoeira Paulista" tvg-logo="https://i.imgur.com/wcRWSzc.png" group-title="Brasil",TV Canção Nova Cachoeira Paulista
+https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Canção Nova" tvg-logo="https://i.imgur.com/wcRWSzc.png" group-title="Brasil",TV Canção Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-name="TV Assembleia Piauí" tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="Brasil",TV Assembleia Piauí
+https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlvorada.br" tvg-name="TV Alvorada" tvg-logo="https://i.imgur.com/wzx7TsO.png" group-title="Brasil",TV Alvorada
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="TV Antena 10" tvg-logo="https://i.imgur.com/M4X95Uc.png" group-title="Brasil",TV Antena 10
+http://170.84.165.204:80/CANCAONOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCidadeVerdePiaui.br" tvg-name="TV Cidade Verde Piauí" tvg-logo="https://i.imgur.com/vjmpQnR.png" group-title="Brasil",TV Cidade Verde Piauí
+http://168.197.104.22:80/CANCAO_NOVA/index.m3u8
+#EXTINF:-1 tvg-id="TVCidadeVerde.br" tvg-name="TV Cidade Verde" tvg-logo="https://i.imgur.com/SysgBqZ.png" group-title="Brasil",TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeClube.br" tvg-name="Rede Clube" tvg-logo="https://i.imgur.com/YTCFxJw.png" group-title="Brasil",Rede Clube
+http://138.255.2.6:8084/CANCAONOVA/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-name="CazeTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Brasil",CazeTV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" tvg-logo="https://i.imgur.com/1LUbAVP.png" group-title="Brasil",O Dia TV
+https://www.televisaoodia.com.br/
 #EXTINF:-1 tvg-id="tv.assembleia.pi" tvg-name="TV ASSEMBLEIA PI" tvg-logo="https://www.al.pi.leg.br/comunicacao/tv-assembleia/noticias-tv/tv-assembleia-amplia-presenca-no-interior-do-piaui-e-chega-cada-vez-mais-perto-da-populacao/@@images/410cfea5-1d43-4468-beb4-77e0099502da.jpeg" group-title="Brasil",TV ASSEMBLEIA PI
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.cancaonova.com" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Brasil",TV CANÇÃO NOVA
