@@ -31,3 +31,5 @@ https://www.televisaoodia.com.br/
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.cancaonova.com" tvg-name="TV CANÇÃO NOVA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Brasil",TV CANÇÃO NOVA
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/chunklist_w1352164720.m3u8
+#EXTINF:-1 tvg-id="BandPiaui.br" tvg-name="O Dia TV HD" tvg-logo="https://i.imgur.com/1LUbAVP.png" group-title="Brasil",O Dia TV HD
+https://www.televisaoodia.com.br/
